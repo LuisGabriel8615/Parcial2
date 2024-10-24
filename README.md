@@ -6,7 +6,9 @@ Este repositorio contiene el proyecto web de la evaluación parcial 2, para apre
 
 ## Estudiante
 
-| Carnet  | 200615485                          | 
+| Carnet  |    200615485                       | 
+------------------------------------------------ 
 | Nombre  | Luis Arturo Gabriel Cruz           | 
-| Fecha   | Octubre 2024                       | 
- 
+------------------------------------------------
+| Fecha   |    Octubre 2024                    | 
+------------------------------------------------
